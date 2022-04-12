@@ -25,6 +25,7 @@
   },
   "scripts": {
     "start": "egg-scripts start --daemon --title=egg-upload-service",
+    "restart": "yarn stop && yarn start",
     "stop": "egg-scripts stop --title=egg-upload-service",
     "dev": "egg-bin dev",
     "debug": "egg-bin debug",
