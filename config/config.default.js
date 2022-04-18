@@ -26,7 +26,7 @@ module.exports = appInfo => {
     /** 更改默认的启动端口 */
     config.cluster = {
         listen: {
-            port: 2760,
+            port: 2766,
         },
     }
 
