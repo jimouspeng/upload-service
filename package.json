@@ -7,9 +7,11 @@
     "declarations": true
   },
   "dependencies": {
+    "art-template": "^4.13.2",
     "egg": "^2.15.1",
     "egg-cors": "^2.2.3",
     "egg-scripts": "^2.11.0",
+    "koa-art-template": "^1.1.1",
     "puppeteer": "^13.5.2"
   },
   "devDependencies": {
